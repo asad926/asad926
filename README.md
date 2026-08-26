@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=F97316"/>
 </a>
 <a href="https://www.linkedin.com/in/asadmalik926">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=F97316"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-000000.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 <a href="mailto:asad.iqbal8600@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA580C"/>
@@ -330,14 +330,6 @@ We work across:
 
 # 📈 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asad926&show_icons=true&hide_border=true&bg_color=000000&title_color=F97316&text_color=FFFFFF&icon_color=F97316&rank_icon=github"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad926&layout=compact&hide_border=true&bg_color=000000&title_color=F97316&text_color=FFFFFF&icon_color=F97316"/>
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -423,7 +415,7 @@ Let's talk.
 
 <br/>
 
-<img src="https://www.asadiqbal.me/logo.svg" width="48"/>
+<img src="https://www.asadiqbal.me/_next/image?url=%2Fimages%2Fhero-image.webp&w=1080&q=75" width="192"/>
 
 **Asad Iqbal**
 *Founder & CEO · AI Engineer · Full-Stack Architect · Web3 Engineer*
